@@ -1,5 +1,6 @@
 require_relative 'workout'
 require 'csv'
+require 'table_print'
 
 # create an array of Workout objects
 def load_workout_data(filename)
