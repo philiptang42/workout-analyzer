@@ -25,5 +25,3 @@ def load_workout_data(filename)
 
   workouts
 end
-
-# YOUR CODE HERE
